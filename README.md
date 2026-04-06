@@ -1,4 +1,3 @@
-# scheduling-financial (Processo Tokio Marine)
 # Desafio - Tokio Marine
 
 - Desenvolver um sistema de agendamento de transferências financeiras;
